@@ -1,0 +1,13 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+version=1.0
+Type=Application
+Terminal=false
+Exec=/usr/bin/idle
+Name=Idle
+Comment=Icon for Idle
+Icon=/home/liveuser/Desktop/Icons/python2.gif
+
+# Name this file IDLE.desktop.  The .desktop part is critical
+#  The icon is not important.  The deault is fine.
